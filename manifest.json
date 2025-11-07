@@ -1,0 +1,9 @@
+{
+  "id": "ribbon-labels",
+  "name": "Ribbon Labels",
+  "version": "0.4.0",
+  "minAppVersion": "1.6.0",
+  "description": "Show text labels under ribbon icons with user controls",
+  "author": "You",
+  "isDesktopOnly": true
+}
